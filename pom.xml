@@ -10,9 +10,9 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>tomcat-jenkins</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>v1</version>
 	<packaging>war</packaging>
-	<name>tomcat-jenkins</name>
+	<name>nikhil</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
