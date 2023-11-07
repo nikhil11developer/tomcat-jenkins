@@ -9,12 +9,12 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloController {
         @GetMapping("/hello")
 	public String hello() {
-		return "hello";
+		return "hello  master developer";
 	}
 
 	@GetMapping("/bello")
 	public String bello() {
-		return "bello";
+		return "bello master developer";
 	}
 	
 }
